@@ -1,0 +1,2 @@
+A valid url needs to supplied in the src/webscraper.properties as the url key. the Json object will be printed
+as a log message in  the console. Interface does provide a methos to save it as json file also.  
